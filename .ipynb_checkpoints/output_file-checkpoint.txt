@@ -132,8 +132,8 @@
 <a href="https://www.weather.go.kr/w/weather/forecast/short-term.do" target="_blank"><img alt="" src="//image.newsis.com/new_www/homepage/wi_icon/dr_02.png"/></a>
 </div>
 <div class="txt">
-<p class="date">2024.04.08 (월)</p>
-<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do" target="_blank"><p class="temp"><strong>서울 17℃</strong></p></a>
+<p class="date">2024.04.06 (토)</p>
+<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do" target="_blank"><p class="temp"><strong>서울 18℃</strong></p></a>
 </div>
 </div>
 <div class="topMenu">
@@ -165,7 +165,7 @@ var tempar;
 
 function adrolling() { 
 	var js_ad_array		=	[{"cmp_id":"AD_20161107_000331","img_id":"129486","img_type":"jpg","loc_url":"http:\/\/www.hyosung.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-26 00:00:00","img_name":"hyosung_26060_170629.jpg","old_new_flag":"Y","img_path":"AD_20161107_000331_1498703756.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000331_1498703756.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"http:\/\/news.samsung.com","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-10-11 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_231107.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1699332069.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1699332069.gif\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20101029_28581","img_id":"132506","img_type":"jpg","loc_url":"http:\/\/www.sk.co.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-28 00:00:00","img_name":"SK_180427.jpg","old_new_flag":"Y","img_path":"AD_20101029_28581_1524809228.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2010\/10\/29\/AD_20101029_28581_1524809228.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000322","img_id":"133484","img_type":"jpg","loc_url":"https:\/\/www.hanafn.com:8002\/main\/index.do","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"270x60.jpg","old_new_flag":"Y","img_path":"AD_20161107_000322_1709171690.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000322_1709171690.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20230526_002167","img_id":"144510","img_type":"jpg","loc_url":"http:\/\/www.doosan-tesna.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-25 00:00:00","img_name":"\ub450\uc0b0\ud14c\uc2a4\ub098_230526.jpg","old_new_flag":"Y","img_path":"AD_20230526_002167_1685069688.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2023\/05\/26\/AD_20230526_002167_1685069688.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000325","img_id":"146690","img_type":"jpg","loc_url":"https:\/\/shop.kt.com\/display\/olhsPlan.do?plnDispNo=2365&cmpid=tf_shop_wless_240229-display-5gph_yogo-press-nontarget_H-2","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-29 00:00:00","img_name":"KT_240304.jpg","old_new_flag":"Y","img_path":"AD_20161107_000325_1709522296.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000325_1709522296.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20220627_001988","img_id":"146939","img_type":"gif","loc_url":"https:\/\/www.seoul.go.kr\/news\/news_notice.do#view\/408645","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-05-24 00:00:00","img_name":"\uc11c\uc6b8\uc2dc\uccad(\uc870\uacbd\uacfc)_240401.gif","old_new_flag":"Y","img_path":"AD_20220627_001988_1711664949.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2022\/06\/27\/AD_20220627_001988_1711664949.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"}]; 
-	var js_ad_array2 	=	[{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"http:\/\/news.samsung.com","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-10-11 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_231107.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1699332069.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1699332069.gif\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20110124_32661","img_id":"136092","img_type":"gif","loc_url":"https:\/\/bit.ly\/3I8s145","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-27 00:00:00","img_name":"LG_240328-1.gif","old_new_flag":"Y","img_path":"AD_20110124_32661_1711610608.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2011\/01\/24\/AD_20110124_32661_1711610608.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20170727_000777","img_id":"141896","img_type":"jpg","loc_url":"https:\/\/campaign.naver.com\/collect_v2\/?pcode=pressnetwork_fullcare&event_id=SME&target=https%253A%252F%252Fcampaign.naver.com%252Fsmefullcare%252Fonline%252F","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"\ub124\uc774\ubc84_220607-1.jpg","old_new_flag":"Y","img_path":"AD_20170727_000777_1654582442.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2017\/07\/27\/AD_20170727_000777_1654582442.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20130108_64381","img_id":"146023","img_type":"jpg","loc_url":"https:\/\/home.kepco.co.kr\/kepco\/main.do","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"\ud55c\uad6d\uc804\ub825\uacf5\uc0ac_240321.jpg","old_new_flag":"Y","img_path":"AD_20130108_64381_1711003144.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2013\/01\/08\/AD_20130108_64381_1711003144.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20220218_001928","img_id":"146954","img_type":"jpg","loc_url":"https:\/\/www.youtube.com\/@peoplefutureparty_Official","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-09 00:00:00","img_name":"\uad6d\ubbfc\uc758\ud798_240408_\ud22c\ud45c\uc6a9\uc9c0_\uac00\ub85c\ud615_\ub274\uc2dc\uc2a4_270_60.jpg","old_new_flag":"Y","img_path":"AD_20220218_001928_1712554363.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2022\/02\/18\/AD_20220218_001928_1712554363.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000322","img_id":"133484","img_type":"jpg","loc_url":"https:\/\/www.hanafn.com:8002\/main\/index.do","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"270x60.jpg","old_new_flag":"Y","img_path":"AD_20161107_000322_1709171690.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"3","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000322_1709171690.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"}]; 
+	var js_ad_array2 	=	[{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"http:\/\/news.samsung.com","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-10-11 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_231107.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1699332069.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1699332069.gif\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20110124_32661","img_id":"136092","img_type":"gif","loc_url":"https:\/\/bit.ly\/3I8s145","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-27 00:00:00","img_name":"LG_240328-1.gif","old_new_flag":"Y","img_path":"AD_20110124_32661_1711610608.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2011\/01\/24\/AD_20110124_32661_1711610608.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20170727_000777","img_id":"141896","img_type":"jpg","loc_url":"https:\/\/campaign.naver.com\/collect_v2\/?pcode=pressnetwork_fullcare&event_id=SME&target=https%253A%252F%252Fcampaign.naver.com%252Fsmefullcare%252Fonline%252F","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"\ub124\uc774\ubc84_220607-1.jpg","old_new_flag":"Y","img_path":"AD_20170727_000777_1654582442.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2017\/07\/27\/AD_20170727_000777_1654582442.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20130108_64381","img_id":"146023","img_type":"jpg","loc_url":"https:\/\/home.kepco.co.kr\/kepco\/main.do","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"\ud55c\uad6d\uc804\ub825\uacf5\uc0ac_240321.jpg","old_new_flag":"Y","img_path":"AD_20130108_64381_1711003144.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2013\/01\/08\/AD_20130108_64381_1711003144.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20220218_001928","img_id":"146954","img_type":"jpg","loc_url":"https:\/\/peoplefutureparty.kr","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-04-09 00:00:00","img_name":"\ud22c\ud45c\uc6a9\uc9c0_\uac00\ub85c\ud615_\ub274\uc2dc\uc2a4_270_60.jpg","old_new_flag":"Y","img_path":"AD_20220218_001928_1711689494.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2022\/02\/18\/AD_20220218_001928_1711689494.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000322","img_id":"133484","img_type":"jpg","loc_url":"https:\/\/www.hanafn.com:8002\/main\/index.do","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2024-03-31 00:00:00","img_name":"270x60.jpg","old_new_flag":"Y","img_path":"AD_20161107_000322_1709171690.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"3","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000322_1709171690.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"}]; 
 	
 	js_ad_array 	=	shuffle(js_ad_array)
 	js_ad_array2 	=	shuffle(js_ad_array2)
@@ -260,16 +260,9 @@ if(getParam("cid") != ''){
 <!-- 속보 뉴스의 갯수는 임의로 보여주기식의 5개 적용.  -->
 <div class="quickNews">
 <ul class="newsList">
-<li id="pushdate_id_0" pushdate="20240408164335"><a href="/view/?id=NISX20240408_0002692117"><span id="sokbo_span_0"></span> [속보]검찰, 뇌물·대북송금 의혹 이화영에 징역 15년 구형 </a></li>
-<li id="pushdate_id_1" pushdate="20240408163631"><a href="/view/?id=NISX20240408_0002692384"><span id="sokbo_span_1"></span> [속보]복지차관 "합리적·통일된 안 제시 외 다른 제안 검토 어렵다"</a></li>
-<li id="pushdate_id_2" pushdate="20240408163548"><a href="/view/?id=NISX20240408_0002692438"><span id="sokbo_span_2"></span> [속보]대통령실 "의대 증원 1년 유예, 검토한 바도 계획도 없다"</a></li>
-<li id="pushdate_id_3" pushdate="20240408163338"><a href="/view/?id=NISX20240408_0002692386"><span id="sokbo_span_3"></span> [속보]복지차관 "의대 증원 1년 유예, 검토한 바 없고 향후 계획도 없다"</a></li>
-<li id="pushdate_id_4" pushdate="20240408105927"><a href="/view/?id=NISX20240408_0002691781"><span id="sokbo_span_4"></span> [속보]군 정찰위성 2호기 발사 성공…지상국과 최초 교신 </a></li>
-<li id="pushdate_id_5" pushdate="20240408092451"><a href="/view/?id=NISX20240408_0002691442"><span id="sokbo_span_5"></span> [속보]군 정찰위성 2호기, 해외지상국과 1차 교신 실패</a></li>
-<li id="pushdate_id_6" pushdate="20240408090846"><a href="/view/?id=NISX20240408_0002691389"><span id="sokbo_span_6"></span> [속보]군 정찰위성 2호기, 목표궤도 정상 진입</a></li>
-<li id="pushdate_id_7" pushdate="20240408090136"><a href="/view/?id=NISX20240408_0002691366"><span id="sokbo_span_7"></span> [속보]조규홍 "의대 증원, 합리적·통일된 대안에 열린 자세로 논의"</a></li>
-<li id="pushdate_id_8" pushdate="20240408090110"><a href="/view/?id=NISX20240408_0002691367"><span id="sokbo_span_8"></span> [속보]조규홍 "진료지원 간호사 9000여명 근무…2700명 추가 예정"</a></li>
-<li id="pushdate_id_9" pushdate="20240408081751"><a href="/view/?id=NISX20240408_0002691237"><span id="sokbo_span_9"></span> [속보]우리 군 정찰위성 2호기, 미 우주군 기지서 발사</a></li>
+<li id="pushdate_id_0" pushdate="20240406051458"><a href="/view/?id=NISX20240406_0002690345"><span id="sokbo_span_0"></span> 뉴욕증시, 고용지표 호조에 상승…나스닥 1.24%↑</a></li>
+<li id="pushdate_id_1" pushdate="20240406044302"><a href="/view/?id=NISX20240406_0002690343"><span id="sokbo_span_1"></span> [속보]美 배심원단 "권도형 투자자 속인 책임 있다"</a></li>
+<li id="pushdate_id_2" pushdate="20240406010134"><a href="/view/?id=NISX20240406_0002690332"><span id="sokbo_span_2"></span> [속보]美 뉴욕주지사, 규모 4.8지진 관련 "심각한 영향·부상 보고 없어"</a></li>
 </ul>
 <a class="btnMore" href="/squ/sokbo/?cid=16000"><img alt="속보뉴스 더보기" src="https://image.newsis.com/n_www/images/btn_more01.png"/></a>
 </div>
@@ -284,7 +277,7 @@ if(getParam("cid") != ''){
 var timeCheck;
 sokobo_list();
 function sokobo_list(){
-	var sokbolist_cnt = '10';
+	var sokbolist_cnt = '3';
 	var time_flag, time_split;
 	
 	var time_red_flag 	=	0; 
@@ -374,447 +367,441 @@ function enterkey(args){
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692718">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297975_web.jpg?rnd=20240408193104" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690482">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520917_web.jpg?rnd=20240406132217" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692718">한동훈 "이재명, 김준혁의 음담패설 옹호하는 글 올려"</a>
+<a href="/view/?id=NISX20240406_0002690482">YG 베이비몬스터, 美 빌보드·포브스 주목</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692718">한동훈 국민의힘 비상대책위원장은 8일 "김준혁 후보의 말도 안되는 음담패설에 대해 오늘 이재명 더불어민주당 대표가 SNS에 그걸 옹호하는 취지의 글을 올렸다"고 비판했다.
+<a href="/view/?id=NISX20240406_0002690482">신인 걸그룹 '베이비몬스터'가 공식 데뷔와 동시에 해외 주요 매체들의 주목을 받았다. 
 
-한 위원장은 이날 저녁 경기 김포 유세현장에서 "김준혁 후보와 양문석 후보, 굉장히 오랫동안 대한민국 사람들이 강력히 비판, 비난했는데 정말 놀랍다&amp;quo</a>
+6일 소속사 YG엔터테인먼트에 따르면, 미국 음악 전문 매체 빌보드는 지난 1일(현지시간) 베이비몬스터의 셀프 타이틀 데뷔 음반의 타이틀곡 '쉬시(SHEESH)'를 '주목할만한 노래'로 소개했다. "다채로운 전개 속 강렬함이 적절히 어우러진, 놀라운 균형감</a>
 </p>
-<p class="time"><span>신항섭기자</span>2024.04.08 20:44:11</p>
+<p class="time"><span>이재훈기자</span>2024.04.06 13:26:40</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692717">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297862_web.jpg?rnd=20240408165951" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690541">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520918_web.jpg?rnd=20240406132312" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692717">이재명, 문재인 혐오 발언한 국힘 윤영석에 "즉각 물러나야"</a>
+<a href="/view/?id=NISX20240406_0002690541">신경민 전의원, 새미래 전주갑 신원식 후보 지원유세</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692717">
-이재명 더불어민주당 대표는 8일 선거 유세 중 문재인 전 대통령을 향해 막말을 한 윤영석 국민의힘 경남 양산갑 후보의 사퇴를 촉구했다.
+<a href="/view/?id=NISX20240406_0002690541">
+새로운미래 전주갑 신원식 후보 유세장에 전북 출신 신경민 전의원이 지원유세에 나섰다.
 
-이 대표는 이날 오후 자신의 사회관계망서비스(SNS) 페이스북에 "믿기 힘든 극언에 등골이 서늘했다"며 "전직 대통령을 상대로 폭력과 테러를 부추기는 집권여당 후보라니, 대체 민주주의를 </a>
+6일 신원식 후보 측에 따르면 전날 대자인병원 사거리 신 후보 유세 현장에 신경민 전 의원이 깜작 등장했다.
+
+신 전 의원은 “새만금 잼버리대회를 통해 글로벌 새만금으로 비상할 수 있는 절호의 기회를 놓쳐 너무 아쉬웠다”고 전제한 뒤, “국제적 조롱거리가 된 </a>
 </p>
-<p class="time"><span>강주희기자</span>2024.04.08 20:43:35</p>
+<p class="time"><span>김민수기자</span>2024.04.06 13:26:08</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692711">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020296948_web.jpg?rnd=20240408103228" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690545">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520913_web.jpg?rnd=20240406131821" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692711">전국법관대표회의, 사법행정자문위 운영 검토(종합)</a>
+<a href="/view/?id=NISX20240406_0002690545">안산시·고용노동부, 중대재해예방 등에 협업</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692711">전국 법관들이 모여 사법행정자문회의 대안으로 법원조직법에 근거를 둔 사법정책자문위원회 운영을 검토하기로 했다.
+<a href="/view/?id=NISX20240406_0002690545">
+경기 안산시와 고용노동부가 산업단지 중대재해 예방과  일자리 안정을 위해 머리를 맞댄다.
 
-전국법관대표회의는 8일 오전 10시부터 경기도 고양시 일산동구의 사법연수원에서 '전국법관대표회의 2024년 상반기 정기회의'를 통해 이 같은 안건을 논의했다고 밝혔다.
+안산시는 5일 안산시청 시장 집무실에서 이경환 신임 고용노동부 안산지청장과 간담회를 가졌다.
 
-전국법관대표회의는 각급 법원에서 선출된 대표 판사들이 모인 회의체로,</a>
+이날 간담회는 올해부터 5인 이상 50인 미만 사업장에도 중대재해처벌법이 적용됨에 따라 기업체들의 막연한 불안감을 해소하고  노동자들이 안전한 </a>
 </p>
-<p class="time"><span>하종민기자</span>2024.04.08 20:36:35</p>
+<p class="time"><span>문영호기자</span>2024.04.06 13:25:45</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692714">
-<img alt="" class="cropcls9" src="//image.newsis.com/2023/11/13/NISI20231113_0020127975_web.jpg?rnd=20231113202456" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690543">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520915_web.jpg?rnd=20240406132115" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692714">최하위 KT 비상…배정대·김민혁, 부상으로 1군 말소</a>
+<a href="/view/?id=NISX20240406_0002690543">전주을 정운천 후보 가족 유세 “8년 전 기적을 다시”</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692714">
-KBO리그 최하위로 처져 있는 KT 위즈가 부상 악령에 시달리고 있다. 외야수 배정대와 김민혁이 당분간 경기에 나서지 못한다.
-
-KT는 프로야구 경기가 없는 8일 배정대와 김민혁, 외야수 송민섭, 투수 김민과 문용익을 1군 엔트리에서 말소했다.
-
-배정대와 김민혁은 부상으로 인해 전력에서 이탈하게 됐다.
-
-배정대는 지난 7일 잠실 LG 트윈스전</a>
+<a href="/view/?id=NISX20240406_0002690543">전주을 지역구에 출마한 국민의힘 정운천 후보의 가족들이 지지 호소를 위해 거리에 나섰다.
+ 
+정 후보의 가족들은 “아버지의 무거운 책임을 함께 짊어지겠다”면서 “저희보다 전주를 더 사랑하는 아버지를 도와달라”라고 시민들께 호소하고 있다.
+  
+공식 선거운동 첫날인 지난달 28일, 시민들께 사죄하는 마음으로 삭발 후 함거에 오른 정운</a>
 </p>
-<p class="time"><span>박윤서기자</span>2024.04.08 20:33:27</p>
+<p class="time"><span>김민수기자</span>2024.04.06 13:25:29</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692688">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0001001284_web.jpg?rnd=20240408201930" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690544">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520916_web.jpg?rnd=20240406132139" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692688">바티칸 "성전환 수술과 대리모, 인간 존엄성에 대한 중대 위협"</a>
+<a href="/view/?id=NISX20240406_0002690544">안성 중부고속도로 3중 추돌…2명 사망</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692688">바티칸은 8일 성전환 수술과 대리모를 인간의 존엄성에 대한 중대한 위협으로 선언하면서, 이는 낙태 및 안락사와 마찬가지로 인간의 삶에 대한 하나님의 계획을 위반하는 관행이라고 규정했다.
+<a href="/view/?id=NISX20240406_0002690544">
+6일 오전 11시께 경기 안성시 일죽면 중부고속도로 하남 방향 호법분기점 부근에서 3중 추돌 사고가 발생해 운전자 등 2명이 숨졌다.
 
-바티칸 교리국은 이날 지난 5년 동안 진행해온 20쪽 분량의 선언문 '무한한 존엄성'을 발표했다. 이 선언문은 지난 3월25일 프란치스코 교황의 승인을 받았는데, 최근</a>
+코란도 스포츠 차량이 앞서가던 SM5와 벤츠 차량을 잇달아 들이받은 것으로 전해졌다.
+
+이 사고로 코란도가 전복됐고, 40대 운전자와 60대 동승자가 병원으로 옮겨졌으나 끝내 숨졌다. SM5와 벤츠에서도 부상자가</a>
 </p>
-<p class="time"><span>유세진기자</span>2024.04.08 20:24:01</p>
+<p class="time"><span>박상욱기자</span>2024.04.06 13:24:52</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692710">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297728_web.jpg?rnd=20240408155238" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690537">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520909_web.jpg?rnd=20240406131327" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692710">이재명 "경남 진주갑·강원 강릉 등 7곳 승리해야 할 초접전지"</a>
+<a href="/view/?id=NISX20240406_0002690537">[인터뷰]석동현 "자유통일당, 윤석열 지키고 보수 성공 뒷받침할 것"</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692710">
-이재명 더불어민주당 대표는 8일 국민의힘이 현역으로 있는 경남 진주갑 등 7곳을 초접전지로 뽑으며 "도움을 조금만 드리면 이길 수 있는 곳"이라고 말했다.
+<a href="/view/?id=NISX20240406_0002690537">
 
-이 대표는 이날 오후 유튜브 라이브 방송에서 "전국적으로 접전 지역이 워낙 많은데 그중에서도 우리가 꼭 이겨야 할, 조금만 관심을 가져주면 이길 수 있는 지역 7곳만 </a>
+석동현 자유통일당 총괄 선거대책위원장은 6일 4·10 총선 목표와 관련해 " 윤석열 대통령을 지키고 보수 정부 성공을 뒷받침하겠다"고 밝혔다.
+
+석 위원장은 이날 뉴시스와 인터뷰에서 자유통일당은 범우파 세력을 결집해 보수 정권인 윤석열 정부를 지키고 성공을 뒷받침할 것이라고 강조했다. 국민의힘이 중도 좌파 성향으로 흐르지 않도록</a>
 </p>
-<p class="time"><span>강주희기자</span>2024.04.08 20:19:56</p>
+<p class="time"><span>이재우기자</span>2024.04.06 13:24:28</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692708">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020296886_web.jpg?rnd=20240408100631" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690540">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/05/NISI20240405_0020294283_web.jpg?rnd=20240405134302" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692708">인천 계양구에 '이재명 비방' 불법 유인물 배포…경찰 수사</a>
+<a href="/view/?id=NISX20240406_0002690540">부산 오후 1시 사전투표율 22.13%…21대보다 4.11%↑</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692708">인천 계양구에 더불어민주당 이재명 대표를 비방하는 유인물이 배포돼 경찰이 수사에 나섰다.
+<a href="/view/?id=NISX20240406_0002690540">
+제22대 국회의원 선거 사전투표 둘째 날인 6일 오후 1시 현재 부산지역 누계 사전 투표율은 22.13%로 집계됐다.
 
-8일 인천 계양경찰서에 따르면 이날 오전 6시30분께 계양구에 이재명 대표를 비방하는 내용의 불법 유인물이 배포됐다는 신고가 접수됐다.
+중앙선거관리위원회에 따르면 이날 오후 1시 기준 부산 유권자 288만4261명 중 63만8180명이 투표에 참여했다.
 
-이 유인물에는 '재명이시여, 이제 우리 계양인들은 당신을 떠나보낼까 한다'면서 '세상 모두가 당신을 향해 저주의 손가락질을</a>
+이는 동시간대 전국 평균투표율 23.41%보다 1.28%p 낮고 지난 21대 총선 동시간대 부산 누적 투표율</a>
 </p>
-<p class="time"><span>이루비기자</span>2024.04.08 20:13:08</p>
+<p class="time"><span>이동민기자</span>2024.04.06 13:16:48</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002691782">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0001521677_web.jpg?rnd=20240408105827" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690539">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/05/NISI20240405_0001520163_web.jpg?rnd=20240405113845" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002691782">아내, 남편 외도 의심해 출근길까지 동행…무슨 사연?</a>
+<a href="/view/?id=NISX20240406_0002690539">사전투표 둘째날 충북, 오후 1시 투표율 7.7%…누적 23.4%</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002691782">
-이성 문제로 모든 일상을 통제당해 억울하다는 남편의 사연이 공개된다.
+<a href="/view/?id=NISX20240406_0002690539">
+22대 국회의원 선거 사전투표 둘째날인 6일 오후 1시 기준 충북지역 누적 사전투표율이 20%를 넘어섰다.
 
-8일 오후 10시10분 방송되는 MBC TV 예능물 '오은영 리포트-결혼 지옥'에서 남편의 외도를 의심하고 통제하는 아내, 되려 아내의 외도가 의심된다는 남편이 등장한다. 
+중앙선거관리위원회 선거통계시스템에 따르면 이날 오후 1시 기준 도내 사전투표율은 7.7%, 누적 사전투표율은 23.4%로 나타났다.
 
-이날 공개된 VCR은 이른 새벽부터 기상한 부부의 모습으로 시작된다. 남편의 출근복과 아이 옷을 챙기</a>
+전날 오전 6시부터 이날 오후 1시까지 도내 전체 유권자 137만2679명 가운데 32만1166명이 투표</a>
 </p>
-<p class="time"><span>이강산 인턴기자</span>2024.04.08 20:01:00</p>
+<p class="time"><span>이도근기자</span>2024.04.06 13:16:25</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692686">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297914_web.jpg?rnd=20240408172943" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692686">여자배구 신인왕 김세빈 "정민 언니 블로킹 영상 찾아봐"</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692686">
-프로배구 여자부 신인선수상을 수상한 미들블로커(중앙 공격수) 김세빈(한국도로공사)이 선배 최정민(IBK기업은행)의 블로킹 영상을 찾아본다고 밝혔다.
-
-김세빈은 8일 서울 서초구 더케이 호텔 서울 그랜드볼룸에서 열린 '도드람 2023~2024 V-리그 시상식'에서 여자부 신인선수상을 받았다.
-
-적수가 없었다. 김세빈은 31표 중 30표를 얻으며 1</a>
-</p>
-<p class="time"><span>박윤서기자</span>2024.04.08 19:58:48</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692682">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0001000065_web.jpg?rnd=20240408084906" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692682">하마스, "협상 진전 없어"…카이로 재회동 불투명</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692682">이집트 카이로에서 7일(일) 재개되었던 가자 전쟁 휴전 협상이 "아직 어떤 진전도 없다"고 8일 오후에 가디언 지와 로이터 통신이 하마스 고위 관계자를 인용해 전했다.
-
-바로 몇 시간 전 같은날 오전에는 이와 반대로  "큰 진전이 있었다"는 이집트 발 보도가 나왔다.
-
-일요일 카이로 협상에는 이스라엘의 다</a>
-</p>
-<p class="time"><span>김재영기자</span>2024.04.08 19:56:19</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692687">
-<img alt="" class="cropcls9" src="//image.newsis.com/2020/02/25/NISI20200225_0016115429_web.jpg?rnd=20200225135809" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692687">스웨덴, "국가안보에 위협" 57살 中여기자 추방…재입국도 금지</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692687">스웨덴이 국가 안보에 위협이 된다며 57살의 중국 여기자를 추방했다고 스웨덴 언론이 8일 보도했다.
-
-이름이 공개되지 않은 이 기자는 지난해 10월 스웨덴 보안국에 체포됐으며, 지난주 스톡홀름에서 정부에 의해 추방됐다고 스웨덴의 SVT 방송이 보도했다. 그녀는 스웨덴 재입국도 금지됐다.
-
-이 여기자는 약 20년 전 스웨덴에 도착, 거주허가증을 소지하</a>
-</p>
-<p class="time"><span>유세진기자</span>2024.04.08 19:55:35</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692704">
-<img alt="" class="cropcls9" src="//image.newsis.com/2023/11/22/NISI20231122_0001419094_web.jpg?rnd=20231122194627" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692704">접근 금지 명령에도 전 연인 또 스토킹한 40대 검거</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692704">
-전 연인을 스토킹해 접근 금지 명령을 받고도 재차 주거지에 찾아간 40대가 경찰에 붙잡혔다.
-
-8일 경기 평택경찰서는 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 40대 A씨를 현행범으로 체포했다.
-
-A씨는 지난 6일 오후 9시께 전 연인인 50대 여성 B씨의 평택시 가재동 거주지를 찾아가 여러 차례 현관문을 두들기고 초인종을 누른 혐의를</a>
-</p>
-<p class="time"><span>변근아기자</span>2024.04.08 19:50:13</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692700">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297971_web.jpg?rnd=20240408193104" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692700">[총선 D-2]여 "'일하는 척', 위선 그 자체" vs 야 "확실히 '대파'하겠다"(종합)</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692700">
-
-4·10 총선이 이틀 앞으로 다가온 가운데 여야가 비판을 이어가고 있다. 국민의힘은 이재명 더불어민주당 대표의 '일하는 척 했네' 발언을 저격하며 "부도덕함과 위선 그 자체"라고 비난했고, 더불어민주당은 정부의 물가정책 실패를 지적하며 "확실히 '대파'하겠다"고 강조했다.
-
-8일 한동훈 국민의힘 비상대책위원장과</a>
-</p>
-<p class="time"><span>신항섭기자</span>2024.04.08 19:49:47</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692698">
-<img alt="" class="cropcls9" src="//image.newsis.com/2021/05/06/NISI20210506_0000741565_web.jpg?rnd=20210506153143" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<p class="tit">
-<a href="/view/?id=NISX20240408_0002692698">고객 돈 1억원 무단 인출한 충북 지역농협 직원</a>
-</p>
-<p class="txt">
-<a href="/view/?id=NISX20240408_0002692698">
-고객 돈을 무단으로 인출한 충북지역 한 지역농협 직원이 감사에 적발됐다.
-
-8일 농협중앙회 충북본부 등에 따르면 도내 한 지역 농협에서 근무하는 직원 A씨가 지난해 10월부터 지난 2월까지 고객의 정기예금 통장에서 돈을 여러 차례 인출한 것으로 확인됐다.
-
-A씨가 인출한 돈은 적게는 수십만원에서 많게는 수백만원으로 총 1억원에 달하는 것으로 알려</a>
-</p>
-<p class="time"><span>조성현기자</span>2024.04.08 19:42:33</p>
-</div>
-</div>
-</li>
-<li>
-<div class="boxStyle05">
-<div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692697">
+<a href="/view/?id=NISX20240406_0002690535">
 <img alt="" class="cropcls9" src="//image.newsis.com/2022/11/21/NISI20221121_0001134236_web.jpg?rnd=20221121104833" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692697">통영대전고속도로 달리던 승용차 공사 신호차량 들이받아…30대 운전자 숨져</a>
+<a href="/view/?id=NISX20240406_0002690535">고흥서 경유통 청소하던 70대 가스중독…병원 이송</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692697">8일 오후 5시 7분께 전북 장수군 통영대전고속도로 하행선 덕유산휴게소 인근에서 승용차량이 공사 신호차량을 들이받았다.
+<a href="/view/?id=NISX20240406_0002690535">전남 고흥 한 인테리어 업체의 기름통을 청소하던 70대가 가스중독 증세를 보여 병원으로 옮겨졌다.
 
-이 사고로 운전자 A(30)씨가 머리 쪽에 중상을 입고 현장에서 숨졌다.
+6일 전남소방본부에 따르면 전날 오후 5시 58분께 전남 고흥군 고흥읍 한 인테리어 업체에서 기름통을 청소하던 70대 A씨가 호흡곤란 증상을 보인다는 신고가 접수됐다.
 
-경찰은 A씨가 신호차량을 보지 못하고 그대로 차량을 들이받은 것으로 보고 정확한 사고 경위를 조사 중이다.
-</a>
+A씨는 병원으로 옮겨졌지만 생명에 지장은 없는 것으로 알려졌다.
+
+소방 당국은</a>
 </p>
-<p class="time"><span>최정규기자</span>2024.04.08 19:40:44</p>
+<p class="time"><span>김혜인기자</span>2024.04.06 13:16:10</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692696">
-<img alt="" class="cropcls9" src="//image.newsis.com/2019/07/13/NISI20190713_0015396105_web.jpg?rnd=20190715135249" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690534">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/05/NISI20240405_0000994462_web.jpg?rnd=20240406092457" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692696">뇌물·대북송금 의혹 이화영, 최후변론서 "대북송금 조작사건 기록될 것"(종합2보)</a>
+<a href="/view/?id=NISX20240406_0002690534">사전투표 2일차 경기도, 오후 1시 누적 21.71%…21대보다 4.88%↑</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692696">
-검찰이 쌍방울 그룹으로부터 수억원의 뇌물을 받고 대북송금 의혹에 관여한 혐의로 재판에 넘겨진 이화영 전 경기도 평화부지사의 변호인이 "김대중 내란 음모 조작 사건처럼 이화영 대북송금 역시 조작 사건으로 기록될 것"이라며 이 사건 진실을 밝혀달라고 재판부에 요청했다.
+<a href="/view/?id=NISX20240406_0002690534">제22대 국회의원 선거 사전투표 마지막날인 6일 오후 1시 현재 경기도 누적 투표율은 21.71%로 집계됐다. 지난 제21대 선거 동시간대 투표율보다 4.88%p 높은 수치다.
 
-8일 수원지법 형사11부(부장판사 신진우) 심리로 열린 이 전 부</a>
+중앙선거관리위원회에 따르면 이날 오후 1시 현재 경기지역 유권자 1159만5385명 중 251만7011명(잠정)이 사전투표에 참여해 투표율 21.71%를 기록했다.
+
+이는 </a>
 </p>
-<p class="time"><span>변근아기자</span>2024.04.08 19:39:49</p>
+<p class="time"><span>박상욱기자</span>2024.04.06 13:15:55</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692693">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0001522289_web.jpg?rnd=20240408193145" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690538">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520910_web.jpg?rnd=20240406131608" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692693">'27초 만에 골' 추효주, 韓 여자 A매치 역대 최단 시간 득점</a>
+<a href="/view/?id=NISX20240406_0002690538">총선 둘째날 사전투표율 오후 1시 23.41%…21대 보다 4.33%p↑</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692693">
-추효주(인천현대제철)가 한국 여자 축구 최단 시간 득점 기록을 새로 썼다.
+<a href="/view/?id=NISX20240406_0002690538">
+중앙선거관리위원회는 제22대 국회의원 선거 사전투표 둘째 날인 6일 오후 1시 현재 누적 투표율이 23.41%로 집계됐다고 밝혔다.
 
-콜린 벨 감독이 이끄는 여자 축구 국가대표팀이 8일 오후 7시부터 이천종합운동장에서 필리핀과 '신세계 이마트 초청 친선경기' 2차전을 치르는 중이다. 현재 2-0 리드.
+이날 오전 6시부터 진행된 사전투표에서 전체 유권자 4428만11명 가운데 1036만5722명이 투표를 마쳤다.
 
-지난 5일 첫 번째 경기에서 3-0으로 완승을 거뒀던 한국은 2연승을 노렸다.
-
-경기 시작과 동</a>
+이는 2020년 21대 총선의 사전투표 동시간대 투표율(19.08%)과 비교해 4.33%포인트(p)</a>
 </p>
-<p class="time"><span>김진엽기자</span>2024.04.08 19:37:21</p>
+<p class="time"><span>최서진기자</span>2024.04.06 13:15:44</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692694">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297879_web.jpg?rnd=20240408171145" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690527">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520908_web.jpg?rnd=20240406130533" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692694">한동훈, 원희룡과 '이재명 소고기 논란' 식당서 식사</a>
+<a href="/view/?id=NISX20240406_0002690527">'돌싱' 안재현, 혼자 사는 일상 공개…"환경 바뀌면 삶이 바뀐다"</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692694">
-한동훈 국민의힘 비상대책위원장이 8일 인천 계양을 지원 유세를 위해 출마자인 원희룡 후보와 이재명 더불어민주당 소고기 논란 식당을 방문했다.
+<a href="/view/?id=NISX20240406_0002690527">배우 안재현이 배우 구혜선과 이혼 후 혼자 사는 일상을 공개한다. 
 
-한 위원장은 이날 오후 6시47분께 인천 계양구에 소재한 고기 전문점에서 원희룡 후보 및 이천수 선수와 저녁식사를 했다.
+5일 방송된 MBC TV 예능물 '나 혼자 산다'에 안재현의 출연이 예고됐다. 앞서 안재현은 타 유튜브 채널에서 "'나 혼자 산다'에 나가고 싶다. 저만큼 혼자 당당하게 사는 사람이 어디 있느냐"고 너스레를 떨었는데 실제 출연이 이뤄진 것이다.
 
-해당 고기집은 이재명 대표가 인천 계양을 유세 후 사회관계망서비스(SNS)에 고기</a>
+안재현은 '나 혼</a>
 </p>
-<p class="time"><span>신항섭기자</span>2024.04.08 19:35:21</p>
+<p class="time"><span>이재훈기자</span>2024.04.06 13:12:01</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002691870">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0001521735_web.jpg?rnd=20240408112356" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690532">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/01/15/NISI20240115_0001459234_web.jpg?rnd=20240115094106" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002691870">조혜련, 서프라이즈 축가하려다 장도연에 발각</a>
+<a href="/view/?id=NISX20240406_0002690532">비만 정복 다가온다?…'희귀 유전자' 발견</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002691870">
-개그우먼 조혜련이 후배들을 위해 서프라이즈 축가를 부른다.
+<a href="/view/?id=NISX20240406_0002690532">
+성인 비만 위험을 증가시키는 변이 유전자 2개가 발견됐다. 
 
-8일 오후 10시 방송되는 TV조선 예능물 '조선의 사랑꾼'에서는 코미디언 정호철·이혜지 부부의 결혼식 비하인드가 그려진다.
+5일 과학 저널 '네이처 유전학(Nature Genetics)'에 영국 케임브리지대 존 페리 교수팀은 희귀 변이 유전자인 'BSN'과 'APBA1'가 성인 비만 위험을 최대 6배까지 높인다는 사실을 발견했다고 밝혔다.
 
-이날 먼저 정호철·이혜지 부부의 결혼식장을 찾은 조혜련은 깜짝 축가를 위해 극비로 예식장에 잠입을 시도한다. 그녀는 하객들과 마주치지 않기 위해 비상계단을 걸어</a>
+연구팀은 영국 바이오의학 데이터베이스인 '바이오뱅크(UK Biob</a>
 </p>
-<p class="time"><span>이강산 인턴기자</span>2024.04.08 19:33:00</p>
+<p class="time"><span>김수아 인턴기자</span>2024.04.06 13:07:53</p>
 </div>
 </div>
 </li>
 <li>
 <div class="boxStyle05">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002692691">
-<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/08/NISI20240408_0020297938_web.jpg?rnd=20240408180031" style="width:auto"/>
+<a href="/view/?id=NISX20240406_0002690531">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/01/NISI20240401_0001515945_web.jpg?rnd=20240401121254" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
 <p class="tit">
-<a href="/view/?id=NISX20240408_0002692691">프로배구 MVP 김연경 현역 '한 번 더 도전'[뉴시스Pic]</a>
+<a href="/view/?id=NISX20240406_0002690531">총선 둘째날 사전투표율 오후 1시 23.41%…21대 보다 4.33%p↑</a>
 </p>
 <p class="txt">
-<a href="/view/?id=NISX20240408_0002692691">
-프로배구 여자부 현역 연장과 은퇴를 두고 고민했던 김연경이 다음 시즌에도 흥국생명 유니폼을 입고 뛴다.
-
-김연경은 8일 서울 서초구 더케이 호텔 서울 그랜드볼룸에서 열린 '도드람 2023~2024 V-리그 시상식'에서 정규리그 여자부 MVP를 수상했다.
-
-김연경은 31표 중 20표를 획득하며 2년 연속 MVP를 거머쥐었다. 5표를 받은 양효진(현</a>
+<a href="/view/?id=NISX20240406_0002690531">
+</a>
 </p>
-<p class="time"><span>김금보기자</span>2024.04.08 19:30:29</p>
+<p class="time"><span>최서진기자</span>2024.04.06 13:01:00</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690526">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520904_web.jpg?rnd=20240406124312" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690526">신상진 성남시장 “주권자의 힘은 투표에서 나온다”</a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690526">
+신상진 경기 성남시장이 사전투표 둘째 날인 6일 오전 하대원동행정복지센터에서 제22대 국회의원선거 사전투표에 참여해 투표권을 행사했다.
+
+투표를 마친 신 시장은 “주권자의 힘은 투표에서 나오며, 자신과 가족은 물론 성남의 미래와 대한민국의 미래를 결정한다”며 “소중한 한 표에서 희망은 피어난다. 10일 선거 당일에 투표하기 어려운 분들은 사전 투표소</a>
+</p>
+<p class="time"><span>신정훈기자</span>2024.04.06 12:57:02</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690374">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520902_web.jpg?rnd=20240406123917" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690374">조국 "범죄자라고 비난 전에 김건희·한동훈 특검법부터"</a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690374">
+
+조국 조국혁신당 대표는 6일 김건희 특검법과 한동훈 특검법이 우선이라고 외쳤다.
+
+이날 대전을 찾은 조 대표는 충청·강원 ‘아라온' 유세단과 함께 중구 대흥동 우리들공원에서 유세를 열어 "나나 황운하 의원 등에 대해 범죄라고 비난하기 전에 김건희 특검법을 찬성하고 조국혁신당이 발의할 준비가 돼 있는 한동훈 특법법도 동의하겠다, 당당히 재</a>
+</p>
+<p class="time"><span>조명휘기자</span>2024.04.06 12:56:47</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690530">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/03/29/NISI20240329_0020284663_web.jpg?rnd=20240329122607" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690530">민주 "'부동산 투기' 의혹 국힘 김상욱, 스스로 자격 없음 드러내"</a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690530">
+더불어민주당은 6일 부동산 투기 의혹이 제기된 김상욱 국민의힘 울산 남구갑 후보에 대해 "법조인으로서도 공직자로서도 자격이 없음을 스스로 드러내 보였다"고 비판했다.
+
+그러나 자당 김영환 경기 고양정 후보의 학부모 갑질 논란은 '허위 왜곡 보도'라고 일축하며 의혹을 제기한 국민의힘을 향해 "후보자 비방이 반복될 경우 결코 </a>
+</p>
+<p class="time"><span>강주희기자</span>2024.04.06 12:51:36</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690525">
+<img alt="" class="cropcls9" src="//image.newsis.com/2023/02/23/NISI20230223_0001202690_web.jpg?rnd=20230223141250" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690525">대구환경청, 통합허가 사업장 107곳 역량강화 교육 </a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690525">
+대구지방환경청은 지역 내 통합허가 사업장 107곳을 대상으로 역량 강화 교육을 실시했다고 6일 밝혔다.
+
+연도별 통합환경관리제도 적용 업종 확대에 따라 통합허가 사업장이 꾸준히 증가하고 있다.
+
+이에 환경청은 사업장 통합환경관리인의 전문성과 실무능력을 높여 사업장 자율 개선을 유도하고 정보공유를 통한 발전적 사후관리 체계를 구축하기 위해 교육을 </a>
+</p>
+<p class="time"><span>이상제기자</span>2024.04.06 12:48:51</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690529">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/05/NISI20240405_0001519933_web.jpg?rnd=20240405093153" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690529">육사 총동창회, '육사 폄하' 민주당 김준혁에 "후보직 사퇴"</a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690529">
+육군사관학교 총동창회가 지난해 9월 '육군사관학교에 친일파가 득세했다'는 취지의 발언을 한 김준혁 더불어민주당 후보에게 총선 후보직 사퇴를 촉구했다. 김 후보는 오는 10일 제22대 국회의원 선거에서 경기 수원정에 출마한다.
+
+육사 총동창회는 5일 성명문을 내고 "육사는 1946년 국방경비대로 개교한 이래 호국의 간성이자, 국가안보의 중추로</a>
+</p>
+<p class="time"><span>옥승욱기자</span>2024.04.06 12:47:44</p>
+</div>
+</div>
+</li>
+<li>
+<div class="boxStyle05">
+<div class="thumCont">
+<a href="/view/?id=NISX20240406_0002690502">
+<img alt="" class="cropcls9" src="//image.newsis.com/2024/04/06/NISI20240406_0001520901_web.jpg?rnd=20240406123214" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<p class="tit">
+<a href="/view/?id=NISX20240406_0002690502">이란, 美에 "네타냐후 덫 걸리지 말아야…개입 말라" 경고</a>
+</p>
+<p class="txt">
+<a href="/view/?id=NISX20240406_0002690502">
+이스라엘의 시리아 주재 이란 영사관 폭격으로 이란의 보복 우려가 고조되는 가운데, 이란 정부 간부가 이스라엘의 동맹 미국에게 개입하지 말라고 경고했다. 
+
+5일(현지시각) 이란 현지매체 이란인텔 등에 따르면 모하마드 잠시디 이란 대통령실 정무 부수석은 전날 소셜미디어 엑스(X·구 트위터)를 통해 "이란은 서면 메시지를 통해 미국 지도부에 (</a>
+</p>
+<p class="time"><span>김예진기자</span>2024.04.06 12:40:02</p>
 </div>
 </div>
 </li>
@@ -849,7 +836,7 @@ A씨가 인출한 돈은 적게는 수십만원에서 많게는 수백만원으�
 <span>다음</span>
 </button>
 </a>
-<a href="?cid=realnews&amp;day=today&amp;page=67">
+<a href="?cid=realnews&amp;day=today&amp;page=14">
 <button class="end" type="button">
 <span>마지막</span>
 </button>
@@ -869,62 +856,62 @@ $(window).on( "load", function() {
 <ul>
 <li class="in_img">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002691351">
-<img alt="" class="cropclsetc" src="//image.newsis.com/2024/02/13/NISI20240213_0020228759_web.jpg?rnd=20240213094430" style="width:auto;"/>
+<a href="/view/?id=NISX20240405_0002690103">
+<img alt="" class="cropclsetc" src="//image.newsis.com/2024/04/05/NISI20240405_0020294381_web.jpg?rnd=20240405141158" style="width:auto;"/>
 </a>
 </div>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691351">
+<a href="/view/?id=NISX20240405_0002690103">
 <p>
-<strong class="rank">1</strong>김경율 "목표 120~140석…'김준혁·양문석 논란' 수도권 10석 영향"							</p>
-</a>
-</div>
-</li>
-<li>
-<div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692655">
-<p>
-<strong class="rank">2</strong>윤 "우리 정부서 서울 아파트 가격 14.1% 하락…주택공급 활성화"							</p>
+<strong class="rank">1</strong>[총선 D-4]한강벨트, 야 '경합우세' 속 여 '추격'…낙동강벨트, 다수 지역 '접전'							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692337">
+<a href="/view/?id=NISX20240405_0002690320">
 <p>
-<strong class="rank">3</strong>조국 "야권 200석 얻으면 김건희 법정 출두…한동훈 쫄리나"							</p>
+<strong class="rank">2</strong>윤 대통령, 천태종 제2사찰 부산 삼광사 방문 [뉴시스Pic]							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692072">
+<a href="/view/?id=NISX20240406_0002690472">
 <p>
-<strong class="rank">4</strong>이준석, 48시간 무박 유세…"죽는 것보다 낙선 싫어"							</p>
+<strong class="rank">3</strong>이재명 "입틀막·칼틀막 부족해 파틀막까지 하나"							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692694">
+<a href="/view/?id=NISX20240405_0002688930">
 <p>
-<strong class="rank">5</strong>한동훈, 원희룡과 '이재명 소고기 논란' 식당서 식사							</p>
+<strong class="rank">4</strong>이번주 국회에는 무슨 일이? [뉴시스국회토pic]							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692222">
+<a href="/view/?id=NISX20240405_0002690213">
 <p>
-<strong class="rank">6</strong>한동훈 "이재명, 북한 가기 위해 쌍방울 통해 돈 갖다줬나"							</p>
+<strong class="rank">5</strong>[총선 D-4]전국 ‘최대 격전지’ 분당갑·을 표심 '안갯속'							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691727">
+<a href="/view/?id=NISX20240405_0002690049">
 <p>
-<strong class="rank">7</strong>민주 "국힘 윤영석, '문재인 죽여' 막말…후보직 사퇴하라"							</p>
+<strong class="rank">6</strong>용산 대통령실 일주일[뉴시스Pic]							</p>
+</a>
+</div>
+</li>
+<li>
+<div class="txtCont">
+<a href="/view/?id=NISX20240406_0002690338">
+<p>
+<strong class="rank">7</strong>CSIS "주일미군사령관 4성 장군 격상…한국처럼 연합사 창설해야"							</p>
 </a>
 </div>
 </li>
@@ -934,62 +921,62 @@ $(window).on( "load", function() {
 <ul>
 <li class="in_img">
 <div class="thumCont">
-<a href="/view/?id=NISX20240408_0002691476">
-<img alt="" class="cropclsetc" src="//image.newsis.com/2024/04/08/NISI20240408_0001521494_web.jpg?rnd=20240408093426" style="width:auto;"/>
+<a href="/view/?id=NISX20240405_0002689237">
+<img alt="" class="cropclsetc" src="//image.newsis.com/2023/02/03/NISI20230203_0001188627_web.jpg?rnd=20230203142733" style="width:auto;"/>
 </a>
 </div>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691476">
+<a href="/view/?id=NISX20240405_0002689237">
 <p>
-<strong class="rank">1</strong>간미연 "안티팬에 물총맞아 실명 위기…교복 보면 무섭다"							</p>
-</a>
-</div>
-</li>
-<li>
-<div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692428">
-<p>
-<strong class="rank">2</strong>'추성훈 딸' 추사랑, 수준급 킥복싱 실력 "피는 못 속여"							</p>
+<strong class="rank">1</strong>"잘먹고 잘살아라" 입원 거부당하자 병원장에 욕설한 60대, 벌금형							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691989">
+<a href="/view/?id=NISX20240405_0002689255">
 <p>
-<strong class="rank">3</strong>마동석·예정화 부부 5월의 신랑·신부 된다							</p>
+<strong class="rank">2</strong>현주엽 "박광재·히밥과 사석에서 식사…50만원 나와"							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692015">
+<a href="/view/?id=NISX20240405_0002689837">
 <p>
-<strong class="rank">4</strong>'김동성 아내' 인민정, 건설현장서 일한다…"처음엔 두렵고 창피했다"							</p>
+<strong class="rank">3</strong>안락사 앞둔 유기견 고개 푹…사람들 울렸다 (영상)							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691950">
+<a href="/view/?id=NISX20240406_0002690446">
 <p>
-<strong class="rank">5</strong>"내년 의대 증원 2천명, 변경 불가 아냐…1년 유예는 비과학적"(종합)							</p>
+<strong class="rank">4</strong>강동구 아파트서 90대 어머니·60대 딸 둘 숨진 채 발견							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002691405">
+<a href="/view/?id=NISX20240405_0002689699">
 <p>
-<strong class="rank">6</strong>치매 시어머니 5년 만에 정화조서 백골로 발견, 범인은 며느리							</p>
+<strong class="rank">5</strong>국내서는 반발, 국외서는 고립…'사면초가' 네타냐후[가자전쟁 6개월②] 							</p>
 </a>
 </div>
 </li>
 <li>
 <div class="txtCont">
-<a href="/view/?id=NISX20240408_0002692675">
+<a href="/view/?id=NISX20240406_0002690435">
 <p>
-<strong class="rank">7</strong>7살 쌍둥이 키우던 무용수 엄마…4명에 새삶 주고 하늘로							</p>
+<strong class="rank">6</strong>"축의금 적게 낸 10년지기와 절교" 사연…누리꾼 '시끌'							</p>
+</a>
+</div>
+</li>
+<li>
+<div class="txtCont">
+<a href="/view/?id=NISX20240405_0002689906">
+<p>
+<strong class="rank">7</strong>푸바오, 韓 마지막 모습 공개…강철원 사육사 '울컥'							</p>
 </a>
 </div>
 </li>
@@ -1047,19 +1034,6 @@ $(window).on( "load", function() {
 <p class="tit"><a href="/squ/section/?cid=16000&amp;scid=11000&amp;sscid=11014">기자수첩</a></p>
 <div class="boxStyle07 right">
 <div class="thumCont">
-<a href="/view/?id=NISX20240402_0002684841">
-<img alt="" class="cropcls18" src="//image.newsis.com/2024/04/08/NISI20240408_0001521644_thm.jpg" style="width:auto"/>
-</a>
-</div>
-<div class="txtCont">
-<a href="/view/?id=NISX20240402_0002684841">
-<p class="tit">'부동산 4월 위기설' 낭설이라지만</p>
-<p class="name"></p>
-</a>
-</div>
-</div>
-<div class="boxStyle07 right">
-<div class="thumCont">
 <a href="/view/?id=NISX20240403_0002686318">
 <img alt="" class="cropcls18" src="//image.newsis.com/2021/05/04/NISI20210504_0000739979_thm.jpg" style="width:auto"/>
 </a>
@@ -1071,33 +1045,46 @@ $(window).on( "load", function() {
 </a>
 </div>
 </div>
+<div class="boxStyle07 right">
+<div class="thumCont">
+<a href="/view/?id=NISX20240329_0002680529">
+<img alt="" class="cropcls18" src="//image.newsis.com/2024/03/29/NISI20240329_0001514315_thm.jpg" style="width:auto"/>
+</a>
+</div>
+<div class="txtCont">
+<a href="/view/?id=NISX20240329_0002680529">
+<p class="tit">수입차 흥망성쇠를 바라보며 </p>
+<p class="name"></p>
+</a>
+</div>
+</div>
 </div>
 <!-- 기사 2벌일때 -->
 <div class="smallbox">
 <p class="tit"><a href="/squ/section/?cid=16000&amp;scid=10900&amp;sscid=10905">피플</a></p>
 <div class="boxStyle07 left">
 <div class="thumCont">
-<a href="/view/?id=NISX20240406_0002690392">
-<img alt="" class="cropcls18" src="//image.newsis.com/2024/04/06/NISI20240406_0001520946_thm.jpg" style="width:auto"/>
+<a href="/view/?id=NISX20240405_0002690219">
+<img alt="" class="cropcls18" src="//image.newsis.com/2024/03/29/NISI20240329_0020285294_thm.jpg" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
-<a href="/view/?id=NISX20240406_0002690392">
+<a href="/view/?id=NISX20240405_0002690219">
 <p class="subTit"></p>
-<p class="tit">키겐 "용기를 얻었죠"…안 뻔한 'XXL' 영파씨 프로듀서</p>
+<p class="tit">드랙아티스트 모어 "춤은 제 삶, 죽을 때도 관 속에서 춤출래요"</p>
 </a>
 </div>
 </div>
 <div class="boxStyle07 left">
 <div class="thumCont">
-<a href="/view/?id=NISX20240405_0002689188">
-<img alt="" class="cropcls18" src="//image.newsis.com/2024/04/08/NISI20240408_0001521319_thm.jpg" style="width:auto"/>
+<a href="/view/?id=NISX20240403_0002685589">
+<img alt="" class="cropcls18" src="//image.newsis.com/2024/04/03/NISI20240403_0001517678_thm.jpg" style="width:auto"/>
 </a>
 </div>
 <div class="txtCont">
-<a href="/view/?id=NISX20240405_0002689188">
+<a href="/view/?id=NISX20240403_0002685589">
 <p class="subTit"></p>
-<p class="tit">엘리트 코스 밟던 국악도가 K팝을 만나면…크리에이터 한승은</p>
+<p class="tit">김형석 작곡·박종성 하모니카, 애수가 묘수가 되는 고수</p>
 </a>
 </div>
 </div>
@@ -1119,14 +1106,14 @@ if(window.location.pathname.indexOf( '/view' ) >= 0 ){
 <div class="boxStyle04">
 <div class="thumCont">
 <div class="thum">
-<a href="/photo/graview/?id=NISI20240408_0001521710&amp;cid=photo&amp;page=1">
-<img alt="" src="//image.newsis.com/2024/04/08/NISI20240408_0001521710_web.jpg?rnd=20240408144338"/>
+<a href="/photo/graview/?id=NISI20240406_0001520910&amp;cid=photo&amp;page=1">
+<img alt="" src="//image.newsis.com/2024/04/06/NISI20240406_0001520910_web.jpg?rnd=20240406131608"/>
 </a>
 </div>
 </div>
 <div class="txtCont">
-<a href="/photo/graview/?id=NISI20240408_0001521710&amp;cid=photo&amp;page=1">
-<p> 실업급여 지급액 및 수급자 추이</p>
+<a href="/photo/graview/?id=NISI20240406_0001520910&amp;cid=photo&amp;page=1">
+<p> 2일차 사전투표율 23.41%…21대보다 4.33%p↑(오후 1시)</p>
 </a>
 </div>
 </div>
@@ -1135,14 +1122,14 @@ if(window.location.pathname.indexOf( '/view' ) >= 0 ){
 <div class="boxStyle04">
 <div class="thumCont">
 <div class="thum">
-<a href="/photo/graview/?id=NISI20240408_0001521666&amp;cid=photo&amp;page=1">
-<img alt="" src="//image.newsis.com/2024/04/08/NISI20240408_0001521666_web.jpg?rnd=20240408135115"/>
+<a href="/photo/graview/?id=NISI20240406_0001520862&amp;cid=photo&amp;page=1">
+<img alt="" src="//image.newsis.com/2024/04/06/NISI20240406_0001520862_web.jpg?rnd=20240406101431"/>
 </a>
 </div>
 </div>
 <div class="txtCont">
-<a href="/photo/graview/?id=NISI20240408_0001521666&amp;cid=photo&amp;page=1">
-<p> 고용보험 가입 둔화 지속…20·40대↓</p>
+<a href="/photo/graview/?id=NISI20240406_0001520862&amp;cid=photo&amp;page=1">
+<p> 2일차 사전투표율 19.04%…21대보다 3.88%p↑(오전 10시)</p>
 </a>
 </div>
 </div>
@@ -1307,7 +1294,7 @@ $(window).on( "load", function() {
 <span>편집인 : 염영남</span>
 <span>고충처리인 : 김경원</span>
 <span>통신판매업신고 : 서울중구 0398호</span>
-<span>문의  02-721-7400  <a class="__cf_email__" data-cfemail="f98e9c9b94988a8d9c8bb9979c8e8a908ad79a9694" href="/cdn-cgi/l/email-protection">[email protected]</a></span>
+<span>문의  02-721-7400  <a class="__cf_email__" data-cfemail="8afdefe8e7ebf9feeff8cae4effdf9e3f9a4e9e5e7" href="/cdn-cgi/l/email-protection">[email protected]</a></span>
 </p>
 <p>
 <span>뉴시스의 모든 콘텐츠는 저작권법의 보호를 받는 바, 무단 전재ㆍ복사ㆍ배포를 금합니다.  Copyright © NEWSIS.COM  All  rights  reserved.</span>
